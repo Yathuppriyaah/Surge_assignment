@@ -42,8 +42,4 @@ DOMAIN = yourdomain
 # 7: to see the app go the
 
 http://localhost:3000
-# Surge_assignment
-# Surge_assignment
-# Surge_assignment
-# Surge_assignment
-# Surge_assignment
+## yathuppriyaah 
